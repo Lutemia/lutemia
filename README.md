@@ -2,7 +2,7 @@
 
 ## Hello!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=7E2CF7&vCenter=true&width=435&lines=Interests%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E2CF7&vCenter=true&width=435&lines=Interests%3A)](https://git.io/typing-svg)
 
 ```
 💻 Web Application Security
